@@ -1,6 +1,5 @@
 'We compose two binary relations together only when there is a common middle set' 
 
- an adult, I've had depression, anxiety, wild swings in grades in college (A+? yep. D-? yep.) and some official feedback in my career that I need more "focus".
 *.gitignore FORMAT*
 /logs/*/*.log
 /logs/**/*.log
