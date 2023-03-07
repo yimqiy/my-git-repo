@@ -1,4 +1,5 @@
 WHAT TO IGNORE?
+
 Typically, we ignore files like build artifacts and generated files that are usually derived from the human-authored code in the repository. E.g.
 - dependency caches like /node_modules
 - compiled code like .o, .pyc files
