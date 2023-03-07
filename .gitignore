@@ -1,1 +1,7 @@
-"111111111111111" 
+WHAT TO IGNORE?
+Typically, we ignore files like build artifacts and generated files that are usually derived from the human-authored code in the repository. E.g.
+- dependency caches like /node_modules
+- compiled code like .o, .pyc files
+- build output directories like /bin, /out
+- runtime-generated files like log files
+- personal configuration files e.g. of your IDE
