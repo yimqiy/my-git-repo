@@ -1,3 +1,20 @@
 'We compose two binary relations together only when there is a common middle set' 
 
  an adult, I've had depression, anxiety, wild swings in grades in college (A+? yep. D-? yep.) and some official feedback in my career that I need more "focus".
+*.gitignore FORMAT*
+/logs/*/*.log
+/logs/**/*.log
+**/logs
+**/logs/debug.log
+*.log
+/debug.log
+debug.log
+
+git init: Initialise repository
+git add: Stage changes
+git diff(--staged): Look at differences between working tree and index (--staged: index and current commit)
+git status: Look at repository status
+git commit(-m): Commit staged changes (-m: with this commit message)
+git show: Show current commit
+git log: View the log
+.gitignore: Ignore files
