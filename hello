@@ -17,3 +17,5 @@ git commit(-m): Commit staged changes (-m: with this commit message)
 git show: Show current commit
 git log: View the log
 .gitignore: Ignore files
+
+Installed Docker Desktop 4.17.0
